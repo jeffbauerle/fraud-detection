@@ -20,10 +20,15 @@ One of the many ways that fraudsters take advantage of people is through ticket 
 # The Strategy
 
 #1 Exploratory Data Analysis and Remove Leaky Features
+<br>
 #2 Engineer Feature to Train a Model
+<br>
 #3 Train the Model
+<br>
 #4 Test the Model on a Holdout Set
+<br>
 #5 Deploy the Model
+<br>
 #6 Verify the Model with Live Data
 
 # EDA
